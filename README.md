@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+NAME: GANESH PRABHU J
 
+REG NO:212223220023
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
